@@ -1,0 +1,15 @@
+{
+  "name": "extrusion-profiles",
+  "description": "This is a module to work with aluminium extrusion profiles in OpenSCAD.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertFach/openscad-extrusionProfiles.git"
+  },
+  "keyword": ["openSCAD","extrusion","profile","construction"],
+  "author": "Robert Fach",
+  "bugs": {
+    "url": "https://github.com/RobertFach/openscad-extrusionProfiles/issues"
+  },
+  "homepage": "https://github.com/RobertFach/openscad-extrusionProfiles"
+}
